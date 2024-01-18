@@ -1,0 +1,13 @@
+.menu-card {
+    transition: transform 0.3s; 
+  }
+  
+  .menu-card:hover {
+    transform: scale(1.1); 
+  }
+  
+  .card-image {
+    width: 100%; 
+    object-fit: cover; 
+  }
+  
